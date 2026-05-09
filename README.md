@@ -1,5 +1,3 @@
----
-
 ### 1. Factory Method
 **Estado: Aplicable — No implementado**
 
